@@ -19,14 +19,32 @@ en el colegio parece que estudia pero no estudia nada
 ### tipos de datos: texto
 
 ### tipos de datos: numerico
-
+tipos numero numericos y flotantes cartenas cuando son iguales 
 ### tipos de datos: booleano
-
+son los que verdadro falso der uno  diagrama de fuljo cudo tiene resultado los que senifica true es cuadndo un resultado esta activo y falso cuando no esta activo 
 ### tipos de datos: array
+es didir pequeñas cajitas para cordenar y tener espacio para si mismon uno array tine un espacio de 123  
+ 
+### reto 4: Algortmo de un reloj
+indetificar unas h los m y los s componebte y numero dse partida y un . de final porque el tiempo indeficaer las indeticae nurstro reloj lo vas a mostra la hora loa s comienze adimetra toca llevar nuestro flujo que  llegue a los 60  cuando salga ese flujo de trbajo conectro conecte otro conector si h ya a llegado a 24 hora y que vas a pasar cudo pse 24 hora y vuelvo hacer si no anpasado la 24 horas vuelve serepite a segundo 
+## Estructuras de control
+es un cojunto reglas  que permite incomtra un flujo diagrama 
+los ciclos hace que serepite los codicos y serepita
+### que son las estructuras de control
 
-### reto 4
+ ### condicionales
+algunos los operadores mostra un mensaje |conparador if todos son iguales cuando sera verdadero o falos switch muchos resultado van hacer distinta y va atenr una concecuencia de traves de un mensaje dDvF 
+ ### reto 5 : algorismos con variables y condicionales 
 
-# [curso de pensamiento logico : Algoritmos y diagramas de flujo](https://platzi.com/cursos/pensamiento-logico/)
+ ### ciclos 
+ que cumple una condicion llegar a un . a .b siempre vamos a tener uno . punto de salidad en cantidad de besses los clos de finditos que vuvel ve de punto de partidad jucionamiento no seba ajecutar ciclo for esta compuesto . de partidad cantidad de teraciones cantidida de ves que ban a allegar puento de partida cantidad de iteraciones incremeto  
+ ### reto 6 : algorismo con ciclos
+Este código se divide en tres estructuras que, al trabajar en conjunto y correctamente, forman algoritmos e instrucciones básicas para programas complejos. Veamos: estuctura de conterol de datos 
+ ### try catch
+
+ ### reto 7 : algorismo con manejo de errores 
+
+ [curso de pensamiento logico : Algoritmos y diagramas de flujo](https://platzi.com/cursos/pensamiento-logico/)
 
 #
 
