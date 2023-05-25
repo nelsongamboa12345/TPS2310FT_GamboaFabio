@@ -112,5 +112,5 @@ la suma y resta de binarios se ejecutan aplicando umna serie de reglas que nos d
 
 ### multiplicacion y divicion de binarios 
 
-la multiplicancion de binarios se realiza teniendo en cuenta dos reglas la primera regla dice todo numero multiplicacion  por cero es igual y la segunda que uno por uno es igual a uno las diviciones de numeros binarios se puede realizar contestando la siguientes preguntas es el divisor menor que el diviendo si la respuesta es que no se coloca a uno en el conciente y se baja al siguientes digito del dividiendo si la respuesta es que si la respuesta es que si se realiza una resta 
+la multiplicancion de binarios se realiza teniendo en cuenta dos reglas la primera regla dice todo numero multiplicacion  por cero es igual y la segunda que uno por uno es igual a uno las diviciones de numeros binarios se puede realizar contestando la siguientes preguntas es el divisor menor que el diviendo si la respuesta es que no se coloca a uno en el conciente y se baja al siguientes digito del dividiendo si la respuesta es que si la respuesta 
 
