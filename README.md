@@ -82,9 +82,12 @@ dividir y multiplicar por 2
 
 ### operaciones 
 
-### que son la tablas de 
+### que son la tablas de verdadero 
 
-## es un porcion de formacion con creta los datos compone todas la estrutura
+las tablas de3 verdadd son una herrramienta que nos ayudad a determinar cuales son las condiciones necesarias para que sea verdadero o validod un enuciado nedacion delvuelve el valor opuesta de la proposicion considerada conjuncion es verdadero cuando ambas son verdadero  disyuncion sera verdadero cuando por lo menos una de las proposiciones es verdadero de lo contrario sera falso 
+
+### operadores logico 
+son herramienta que los ayudad considera si una es verdadero o falso operador no  proposito devuelve true cuando exprecion 1 y expresion 2 son verdaderas pero no ambas   ejemplo expresion 1 exprecion 2 
 
 ### parte de un dato a otro dato
 
@@ -114,3 +117,28 @@ la suma y resta de binarios se ejecutan aplicando umna serie de reglas que nos d
 
 la multiplicancion de binarios se realiza teniendo en cuenta dos reglas la primera regla dice todo numero multiplicacion  por cero es igual y la segunda que uno por uno es igual a uno las diviciones de numeros binarios se puede realizar contestando la siguientes preguntas es el divisor menor que el diviendo si la respuesta es que no se coloca a uno en el conciente y se baja al siguientes digito del dividiendo si la respuesta es que si la respuesta 
 
+### operadores aritmeticos
+
+que los permites de indetificar operador de operadorm +  proposito de dos valores operador - operador  proposito multiplicar 2 numeros  rjrmplos cantidad  operador proposito divide el primer numeros entre el segundo 
+
+### operacion de comporacion 
+
+un numero menor el ,mayor o igual menor o igula 2 valores comparando cundo son diferen son verdareso cuando son iguales son verdaderos 
+
+### reto 0 : indetificar las operaciones 
+
+
+## algorismo de resolver 
+
+un algorismo es una serie de paso definir y logra un ojetivo de mejor norma para llegar a eso es in a los simple has lo mas profundo como construir un .algorismo un proceso de analisis detallado 
+. paso a paso si esa luz esta apagada 2 donde voy abrender la luz 3 kus esta brendida dividir rn partes cada vez mas pequeñas
+
+### algorismo de diagrama de flujo 
+es una herramienta que nos ayudad reprensentar nuestro algorismo se compone por un elementos de nuestro algorismo incio fin desicion . proceso . conector estoa son los elementos el conector no defi haciando va final no esta definado un fin 
+
+### reto 1: hay dinero en el cajero electrinico 
+van asacar dinero y van definar si hay dinero sufisciente inicio ya estamos en el cajero un proceso de conector lo van a llevar a un lado a atro hay la camtidad si vamos a sacar si no hay el conectro va asolicitar vez la cantidad 
+### reto 2: buscador de ciudades 
+que todo sedefine a la lista de pais de colombia esperamos cun nuestro diagrama de flujo para verificar si la cuidad es de colombia pero si no es de colombia es momento de larle fin a nuestro algorismo si la cuidad si es de colombia si es el fin a nuestro algorismo 
+### reto 3: logit de usario  
+vamos a crear uno diagrama de flujo 
